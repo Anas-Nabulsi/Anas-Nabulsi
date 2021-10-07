@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anas Nabulsi</h1>
-<h3 align="center">I love frontend, backend, and everything in between. I'm also a passionate UI designer. Currently, I'm interested in ML.</h3>
+<h3 align="center">I love frontend, backend, and everything in between. Currently, I'm interested in ML.</h3>
 
 - 📫 How to reach me **anasnabulsi.an@gmail.com**
 
