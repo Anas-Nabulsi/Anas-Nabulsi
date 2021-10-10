@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anas Nabulsi</h1>
-<h3 align="center">I love frontend, backend, and everything in between. Currently, I'm interested in ML.</h3>
+<h3 align="center">Web development... UI design... and AI love.</h3>
 
 - 📫 How to reach me **anasnabulsi.an@gmail.com**
 
@@ -8,7 +8,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/anas-nabulsi-700281172" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anas-nabulsi-700281172" height="30" width="40" /></a>
-<a href="https://kaggle.com/anasnabulsi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="anasnabulsi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
