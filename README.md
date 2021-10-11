@@ -5,6 +5,9 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/anas-nabulsi-700281172/](https://www.linkedin.com/in/anas-nabulsi-700281172/)
 
+**Note:**
+My activity and the projects that I worked on are mostly private, therefore, you will only see few public ones
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/anas-nabulsi-700281172" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anas-nabulsi-700281172" height="30" width="40" /></a>
