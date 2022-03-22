@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anas Nabulsi</h1>
-<h3 align="center">Web development... UI design... and AI love.</h3>
+<h3 align="center">Web developer & UI designer</h3>
 
 - 📫 How to reach me **anasnabulsi.an@gmail.com**
 
